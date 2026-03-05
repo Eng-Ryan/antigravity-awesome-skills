@@ -368,6 +368,12 @@ This collection would not be possible without the incredible work of the Claude 
 
 ## Repo Contributors
 
+<a href="https://github.com/sickn33/antigravity-awesome-skills/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=sickn33/antigravity-awesome-skills" alt="Repository contributors" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 We officially thank the following contributors for their help in making this repository awesome!
 
 - [@sickn33](https://github.com/sickn33)
